@@ -21,4 +21,4 @@ Linux), then open http://localhost:8080 in your browser.
       I'd be pulling both repos into the services either way
 
 Please do reach out with any other questions you may have about methodology/thought process. Thank you for your time and
-consideration.
+consideration, I'm very excited at the prospect of being a part of Parallon and getting the chance to work in the Java world again.
